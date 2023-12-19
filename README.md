@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AI Virtual Painter**
 
-- 👨‍💻 My Resume is available at [https://linktr.ee/Bharath1410](https://linktr.ee/Bharath1410)
+- 👨‍💻 My Portfolio is at [https://linktr.ee/Bharath1410](https://linktr.ee/Bharath1410)
 
 - 💬 Ask me about **Data Science and AWS**
 
